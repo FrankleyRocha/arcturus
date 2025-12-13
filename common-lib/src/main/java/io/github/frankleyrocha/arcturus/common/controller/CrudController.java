@@ -2,9 +2,9 @@ package io.github.frankleyrocha.arcturus.common.controller;
 
 import java.util.List;
 
-import io.github.frankleyrocha.arcturus.common.persistence.repository.query.filter.FilterAgregator;
-import io.github.frankleyrocha.arcturus.common.persistence.repository.query.page.PageRequest;
-import io.github.frankleyrocha.arcturus.common.persistence.repository.query.page.PagedResponse;
+import io.github.frankleyrocha.arcturus.common.repository.query.filter.FilterAgregator;
+import io.github.frankleyrocha.arcturus.common.repository.query.page.PageRequest;
+import io.github.frankleyrocha.arcturus.common.repository.query.page.PagedResponse;
 
 public interface CrudController <T, ID/*, FILTER extends AbstractFilter*/>{
 

@@ -1,0 +1,4 @@
+io/github/frankleyrocha/arcturus/common/spring/persistence/DynamicSpecifications.class
+io/github/frankleyrocha/arcturus/common/spring/persistence/adapter/CrudRepositoryJpaAdapter.class
+io/github/frankleyrocha/arcturus/common/spring/persistence/DynamicSpecifications$1.class
+io/github/frankleyrocha/arcturus/common/spring/api/rest/CrudRestController.class

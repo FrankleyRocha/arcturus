@@ -98,19 +98,19 @@
 		<dependency>
 			<groupId>io.github.frankleyrocha.arcturus</groupId>
 			<artifactId>common-lib</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>0.0.1</version>
 		</dependency>
 
 		<dependency>
 			<groupId>io.github.frankleyrocha.arcturus</groupId>
 			<artifactId>mapito</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>0.0.1</version>
 		</dependency>
 
 		<dependency>
 			<groupId>io.github.frankleyrocha.arquiturus</groupId>
 			<artifactId>common-lib-spring</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>0.0.1</version>
 		</dependency>
 	</dependencies>
 
